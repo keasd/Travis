@@ -1,2 +1,4 @@
 language: java
-ant test
+java:
+  - "8"
+  - "10"
